@@ -1,1 +1,1 @@
-# DataScience_Student_Project
+# DataScience Projects
